@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-asdadasfadsf
-=======
-bhjhugjhvjvhcgf
-
-hola mudno
->>>>>>> origin/master
